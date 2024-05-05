@@ -2,6 +2,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-AhmetFaikAkbekmez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmet-faik-akbekmez/)](https://www.linkedin.com/in/ahmet-faik-akbekmez/)
 
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetfaik&&show_icons=true)](https://github.com/ahmetfaik)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetfaik&" alt="ahmetfaik" /></p>
 
 <!--
 **ahmetfaik/ahmetfaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
