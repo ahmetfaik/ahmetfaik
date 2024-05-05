@@ -1,6 +1,7 @@
 # Hello there! 👋 I'm Ahmet Faik
 
-## 📖 **About Me:**
+[![Linkedin Badge](https://img.shields.io/badge/-AhmetFaikAkbekmez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmet-faik-akbekmez/)](https://www.linkedin.com/in/ahmet-faik-akbekmez/)
+
 - 💼 I'm a Developer.
 - 🛠️ Net Core & Angular.
 - 🔭 I usually work on Integrations.
@@ -13,7 +14,6 @@
 - **Others:** RabbitMQ, SignalR
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-AhmetFaikAkbekmez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmet-faik-akbekmez/)](https://www.linkedin.com/in/ahmet-faik-akbekmez/)
 
 ## GitHub Stats
 
