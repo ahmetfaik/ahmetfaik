@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-AhmetFaikAkbekmez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmet-faik-akbekmez/)](https://www.linkedin.com/in/ahmet-faik-akbekmez/)
+
+
 <!--
 **ahmetfaik/ahmetfaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
