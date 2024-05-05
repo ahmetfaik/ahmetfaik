@@ -17,10 +17,10 @@
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetfaik&&show_icons=true)](https://github.com/ahmetfaik)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetfaik&show_icons=true)](https://github.com/ahmetfaik)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetfaik&" alt="ahmetfaik" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetfaik" alt="ahmetfaik" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetfaik&theme=flat&row=2&column=3&margin-w=15&margin-h=15&no-bg=true" alt="ahmetfaik" /></a> </p>
 
 <br/>
 
